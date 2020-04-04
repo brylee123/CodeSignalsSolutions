@@ -1,0 +1,2 @@
+# CodeSignalsSolutions
+Miscellaneous coding solutions
